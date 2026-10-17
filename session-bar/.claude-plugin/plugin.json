@@ -1,0 +1,7 @@
+{
+  "name": "session-bar",
+  "version": "0.2.0",
+  "description": "Folder, branch, model, context %, cost and plan limits in a band above the prompt",
+  "author": { "name": "Ryan" },
+  "types": "./types/index.d.ts"
+}

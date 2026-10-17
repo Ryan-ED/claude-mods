@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "description": "Ryan's Claude Code mods",
+  "owner": { "name": "Ryan" },
+  "plugins": [
+    {
+      "name": "session-bar",
+      "source": "./session-bar",
+      "description": "Folder, branch, model, context %, cost and plan limits in a band above the prompt"
+    }
+  ]
+}
